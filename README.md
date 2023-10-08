@@ -11,4 +11,4 @@ Web developer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chakirantsi&icon=2&color=12)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Chakirantsi&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
