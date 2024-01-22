@@ -1,6 +1,5 @@
 # ⛓️ About Me:
-𝐋𝐢𝐟𝐞 𝐢𝐬 𝐨𝐯𝐞𝐫
-
+𝘏𝘢𝘺𝘢𝘵 𝘣𝘪𝘵𝘵𝘪
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chakirantsi)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ckrsemih_) 
